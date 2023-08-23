@@ -1,6 +1,3 @@
-# Market-Basket-Analysis-R
- Market Basket Analysis in R 
-
 # Market Basket Analysis in R using Groceries Dataset
 
  This repository contains an example of performing Market Basket Analysis using R on the popular Groceries dataset. Market Basket Analysis is a technique used to identify relationships between items frequently purchased together by customers.
