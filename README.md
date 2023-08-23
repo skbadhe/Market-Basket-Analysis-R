@@ -27,10 +27,10 @@
 2. **Install R and Required Packages:** Make sure you have R installed on your system. Install the necessary packages 
 
 
-##Contributing
+## Contributing
 
  Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
 
-##License
+## License
 
  This project is licensed under the MIT License.
